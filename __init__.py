@@ -1,0 +1,19 @@
+GraphingCalculator/
+	__init__.py
+	Modules/
+		__init__.py
+		DataStructures/
+			__init__.py
+			DocumentDictionary.py
+			MathFunctions.py
+			Tree.py
+		Input
+			__init__.py
+		Maths
+			__init__.py
+			Calculation.py
+			TreeProcessing.py
+		Output
+			__init__.py
+			graphing.py
+			UI.py
